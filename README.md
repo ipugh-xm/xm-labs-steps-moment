@@ -38,7 +38,7 @@ Moment.js accepts a wide variety of formats for a date and time. On top of this,
 | Date/Time | Yes | 0 | 2000 | Date and time. Can be in many formats. Anything the moment.js library can accept. https://momentjs.com | | No |
 | Output Timezone | Yes | 0 | 2000 | Timezone for output date/time. Formatted like America/New_York | | No |
 | epoch? | Yes | 0 | 2000 | This is if the value has to do with time since epoch. Can be seconds (true), milliseconds, microseconds, or nanoseconds | false | No |
-| Output Format | Yes | 0 | 2000 | Format of the output. For more info on this: https://momentjs.com/docs/#/parsing/string-format/ | false | No |
+| Output Format | No | 0 | 2000 | Format of the output. For more info on this: https://momentjs.com/docs/#/parsing/string-format/ |  | No |
 
 
 ### Outputs
